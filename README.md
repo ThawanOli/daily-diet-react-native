@@ -25,7 +25,7 @@ O **Daily Diet** é um projeto desenvolvido para o acompanhamento de refeições
    git clone [https://github.com/ThawanOli/daily-diet-react-native.git](https://github.com/ThawanOli/daily-diet-react-native.git)
 2. Instale as dependências:
    ```bash
-npm install
+   npm install
 3. Inicie o Expo:
    ```bash
-npx expo start
+   npx expo start
